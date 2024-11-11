@@ -2,5 +2,5 @@
 #include "funcs.h"
 
 void print_hello(void){
-    printf("hello\n");
+    printf("Hello from new feature branch!\n");
 }
