@@ -2,5 +2,5 @@
 #include "funcs.h"
 
 void print_world(void){
-    printf("world\n");
+    printf("The World is beautiful!\n");
 }
